@@ -1,0 +1,12 @@
+:root {
+    /* fonts */
+    --main-font: 'Open Sans', sans-serif;
+    --main-font-size: 14px;
+  
+    /*colors*/
+    --main-light-color: rgb(255, 255, 255);
+    --main-dark-color: rgb(0, 0, 0); 
+    --main-red-color: rgb(255, 51, 0);
+  
+    /* --footer-bg-color: rgb(247, 247, 247); */
+  }
