@@ -136,6 +136,7 @@ input:focus {
 @media (min-width: 1280px) {
   .header {
     background: url("../assets/images/header-image-laptop.jpg");
+    background-attachment: fixed;
   }
 
   .container {
@@ -161,6 +162,7 @@ input:focus {
     background: url("../assets/images/header-image-full.jpg");
     background-size: cover;
     background-repeat: no-repeat;
+    background-attachment: fixed;
   }
 
   .header-logo__img {
